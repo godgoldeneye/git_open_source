@@ -1,0 +1,8 @@
+Ò»¡¢boost °²×°
+1.linux
+tar -xzvf boost_1_67_0.tar.gz
+cd boost_1_67_0.tar.gz
+./bootstrap --prefix=install_dir
+./b2  install --prefix=install_dir
+
+2.windows
